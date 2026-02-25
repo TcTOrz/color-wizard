@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import { Listbox, Transition } from '@headlessui/react';
-import { Check, ChevronDown, Palette } from 'lucide-react';
+import { Check, ChevronDown } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { ColorStrategy } from '../../../types';
 import { cn } from '../../../lib/utils/cn';
