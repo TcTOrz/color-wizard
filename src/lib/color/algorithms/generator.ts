@@ -162,7 +162,6 @@ export class ColorPaletteGenerator {
         // and ensure one of them is close to the base, OR just include the base.
         // Let's include the base and generate variations around it.
         
-        let l: number;
         if (i === 0) {
             colors.push(baseColor);
             continue;
