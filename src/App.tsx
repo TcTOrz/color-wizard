@@ -5,7 +5,6 @@ import { PreviewPanel } from './components/core/PreviewPanel/PreviewPanel';
 import { ColorPicker } from './components/core/ColorPicker/ColorPicker';
 import { StrategySelector } from './components/core/StrategySelector/StrategySelector';
 import { CodeBlock } from './components/ui/CodeBlock/CodeBlock';
-import { ColorStrategy } from './types';
 import { ColorPaletteGenerator } from './lib/color/algorithms/generator';
 import { Wand2, Languages } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
