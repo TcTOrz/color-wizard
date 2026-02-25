@@ -1,4 +1,4 @@
-import React, { useCallback, useRef, useState, useEffect } from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import { HexColorPicker } from 'react-colorful';
 import type { ColorHSL } from '../../../types';
 import { ColorPaletteGenerator } from '../../../lib/color/algorithms/generator';
